@@ -1,7 +1,3 @@
-console.log("main.js");
+const lista = document.querySelector(`#lista`)
 
-function ciao(messaggio){
-    console.log(`Ciao ${messaggio}`)
-}
-
-ciao('mondo');
+const  nuovoElemento = document.cre
