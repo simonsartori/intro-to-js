@@ -4,4 +4,4 @@ function ciao(messaggio){
     console.log(`Ciao ${messaggio}`)
 }
 
-ciao('mondo')
+ciao('mondo');
